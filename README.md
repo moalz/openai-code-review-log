@@ -1,1 +1,0 @@
-# openai-code-review-log
